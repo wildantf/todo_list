@@ -29,7 +29,7 @@ SECRET_KEY = '4wx=8bg0gfe$4*9y9-89g*-5@5n^bqv8-lw7=_xzgfc)fvpeap'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','https://todo-list-wtf.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','todo-list-wtf.herokuapp.com/']
 
 # Application definition
 
